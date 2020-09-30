@@ -1,0 +1,10 @@
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.csprojAssemblyReference.cache
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.Form1.resources
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.Properties.Resources.resources
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.csproj.GenerateResource.cache
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.csproj.CoreCompileInputs.cache
+C:\Users\Dex\source\repos\proizvod\proizvod\bin\Debug\proizvod.exe.config
+C:\Users\Dex\source\repos\proizvod\proizvod\bin\Debug\proizvod.exe
+C:\Users\Dex\source\repos\proizvod\proizvod\bin\Debug\proizvod.pdb
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.exe
+C:\Users\Dex\source\repos\proizvod\proizvod\obj\Debug\proizvod.pdb
